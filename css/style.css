@@ -702,6 +702,16 @@ textarea:focus, input:focus {
  
 }
 
+@media only screen and (max-width: 400px) {
+    #section-parallax {
+     text-align: center;
+     background: url(../img/pexels-photo-376368.jpeg);
+     padding: 140px 0;
+     background-size: cover;
+     color:white;
+    }   
+}   
+
 @media only screen and (max-width: 1062px) {
      .navbar-nav > li{
       padding-left: 50px;
