@@ -1,6 +1,10 @@
 html, body {
-     height: 100%;
      font-size: 16px;
+     height: 100%;
+     width: 100%;
+     margin: 0px;
+     padding: 0px;
+     overflow-x: hidden;
      font-family: 'Cubano-Regular';
      background: url('../img/pattern.jpg' center center);
 }
